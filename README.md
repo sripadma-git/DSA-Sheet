@@ -43,16 +43,22 @@ DSA-Sheet in C++ 🚀
 🔹 Want to contribute? Follow these steps:
 
 Fork this repository.
+<br>
 Add a new DSA question with a solution in C++.
+<br>
 Submit a pull request (PR).
+<br>
 Ensure code quality & proper explanations.
+<br>
 🙌 Let's build an awesome DSA resource together!
+<br>
 
 📜 License
 This project is open-source and available under the MIT License.
 
-🔥 Star this repository if you find it useful! 🚀 Let’s master DSA in C++ together!
+🔥 Star this repository if you find it useful!  <br>
+🚀 Let’s master DSA in C++ together!
 
 💬 Need Help?
-Feel free to contact me if you find any difficulty or are unable to solve a problem! I'm happy to help.
+Feel free to contact me if you find any difficulty or are unable to solve a problem! I'm happy to help.<br>
 contact me on sripadmachintha@gmail.com 
